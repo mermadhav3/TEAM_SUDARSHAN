@@ -49,7 +49,5 @@ Future Scope
 
 Prototype development, experimental testing, field validation, and evaluation of resource efficiency and system reliability.
 
-Team
-
-Gujarat Team Sudarshan
+Team Sudarshan
 Gujarat
